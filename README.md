@@ -1,2 +1,5 @@
 # guess-my-number
- Guess My Number Game!
+ Simple Guess My Number Game!
+
+ Open project in visual studio code and use live server extension, then enjoy!! :)
+
