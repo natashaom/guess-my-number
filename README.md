@@ -7,10 +7,11 @@ Welcome to the Guess the Number Game repository! This project is a simple and en
 Guess the Number is a fun game where the player tries to guess a secret number between 1 and 20. The game provides feedback on whether the guess is too high, too low, or correct, and keeps track of the player's score and highscore. This project demonstrates fundamental JavaScript concepts including DOM manipulation, event handling, and game state management.
 
 **Features**
-**Number Guessing:** Allows the player to input guesses and receive feedback.
-**Score Tracking:** Updates and displays the player's current score and highscore.
-**Game Feedback:** Provides messages for correct guesses, too high/low guesses, and game over.
-**Reset Functionality:** Allows the player to start a new game with the click of a button.
+
+- **Number Guessing:** Allows the player to input guesses and receive feedback.
+- **Score Tracking:** Updates and displays the player's current score and highscore.
+- **Game Feedback:** Provides messages for correct guesses, too high/low guesses, and game over.
+- **Reset Functionality:** Allows the player to start a new game with the click of a button.
 
 **How to Run**
 
